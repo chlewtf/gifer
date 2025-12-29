@@ -1,5 +1,4 @@
-# Discord GIF Bot
-
+# GIFer
 A simple Discord bot built with Eris and TypeScript that fetches and shares GIFs using the Giphy API.
 
 ## Features
